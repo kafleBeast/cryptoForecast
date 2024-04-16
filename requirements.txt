@@ -3,7 +3,7 @@ numpy
 matplotlib
 dash
 dash_bootstrap_components
-sklearn
+scikit-learn
 tensorflow
 xgboost
 arch
