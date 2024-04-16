@@ -4,7 +4,6 @@ matplotlib
 dash
 dash_bootstrap_components
 scikit-learn
-tensorflow
 xgboost
 arch
 plotly
