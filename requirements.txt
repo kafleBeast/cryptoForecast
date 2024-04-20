@@ -7,4 +7,5 @@ scikit-learn
 xgboost
 arch
 plotly
+tensorflow
 gunicorn
